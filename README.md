@@ -116,7 +116,7 @@ Building a robust application requires a lot of testing. Here's a push in the ri
 
 ## Deadline
 
-Your Canvas submission is due at or before 11:59pm on TBD (pending midterm schedule).
+Your Canvas submission is due at or before 11:59pm on Januar 21, 2019.
 
 ### Submission Requirements
 
